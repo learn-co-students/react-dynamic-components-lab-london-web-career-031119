@@ -11,6 +11,7 @@
     ]
   },
   "dependencies": {
+    "learn": "^0.1.5",
     "mocha-multi": "^1.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
